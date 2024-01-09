@@ -9,10 +9,10 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.example.ol_shop.R;
-import com.example.ol_shop.model.Category;
-import com.example.ol_shop.network.ManagerService;
-import com.example.ol_shop.network.RetrofitClient;
+import com.example.demodapd.R;
+import com.example.demodapd.model.Category;
+import com.example.demodapd.network.ManagerService;
+import com.example.demodapd.network.RetrofitClient;
 import com.google.android.material.textfield.TextInputLayout;
 
 import retrofit2.Call;

@@ -10,8 +10,8 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.widget.AppCompatButton;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.ol_shop.R;
-import com.example.ol_shop.model.Bill;
+import com.example.demodapd.R;
+import com.example.demodapd.model.Bill;
 
 import java.util.List;
 

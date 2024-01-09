@@ -10,14 +10,11 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.example.ol_shop.R;
-import com.example.ol_shop.adapter.ProductAdapter;
-import com.example.ol_shop.model.Product;
-import com.example.ol_shop.network.ManagerService;
-import com.example.ol_shop.network.RetrofitClient;
-import com.example.ol_shop.ui.admin.activity.category.AddCategoryActivity;
-import com.example.ol_shop.ui.admin.activity.category.ListCategoryActivity;
-import com.example.ol_shop.ui.user.activity.DetailProductActivity;
+import com.example.demodapd.R;
+import com.example.demodapd.adapter.ProductAdapter;
+import com.example.demodapd.model.Product;
+import com.example.demodapd.network.ManagerService;
+import com.example.demodapd.network.RetrofitClient;
 
 import java.util.ArrayList;
 import java.util.List;

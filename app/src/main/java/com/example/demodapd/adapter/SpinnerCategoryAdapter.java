@@ -5,8 +5,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.example.ol_shop.R;
-import com.example.ol_shop.model.Category;
+import com.example.demodapd.R;
+import com.example.demodapd.model.Category;
 
 import java.util.List;
 

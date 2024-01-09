@@ -13,10 +13,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.ol_shop.R;
-import com.example.ol_shop.ui.user.fragment.order.OrderCancelledFragment;
-import com.example.ol_shop.ui.user.fragment.order.OrderConfimFragment;
-import com.example.ol_shop.ui.user.fragment.order.OrderNotConfimFragment;
+import com.example.demodapd.R;
 
 import java.util.ArrayList;
 import java.util.List;

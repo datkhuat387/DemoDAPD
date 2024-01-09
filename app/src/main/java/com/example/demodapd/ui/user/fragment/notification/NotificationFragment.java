@@ -10,7 +10,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.ol_shop.R;
+import com.example.demodapd.R;
 
 public class NotificationFragment extends Fragment {
 

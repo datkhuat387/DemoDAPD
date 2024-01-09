@@ -13,13 +13,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.ol_shop.R;
-import com.example.ol_shop.adapter.BillAdapter;
-import com.example.ol_shop.adapter.BillAdapter_2;
-import com.example.ol_shop.model.Bill;
-import com.example.ol_shop.network.ManagerService;
-import com.example.ol_shop.network.RetrofitClient;
-import com.example.ol_shop.ui.admin.activity.BillDetailActivity;
+import com.example.demodapd.R;
+import com.example.demodapd.adapter.BillAdapter_2;
+import com.example.demodapd.model.Bill;
+import com.example.demodapd.network.ManagerService;
+import com.example.demodapd.network.RetrofitClient;
+import com.example.demodapd.ui.admin.activity.BillDetailActivity;
 
 import java.util.ArrayList;
 import java.util.List;

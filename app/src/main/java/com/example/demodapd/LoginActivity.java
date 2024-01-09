@@ -12,12 +12,10 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.AppCompatButton;
 
+import com.example.demodapd.model.Account;
 import com.example.demodapd.network.ManagerService;
 import com.example.demodapd.network.RetrofitClient;
-import com.example.ol_shop.model.Account;
-import com.example.ol_shop.network.ManagerService;
-import com.example.ol_shop.network.RetrofitClient;
-import com.example.ol_shop.ui.admin.activity.AdminActivity;
+import com.example.demodapd.ui.admin.activity.AdminActivity;
 import com.google.android.material.textfield.TextInputLayout;
 
 import retrofit2.Call;

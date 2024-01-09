@@ -16,13 +16,12 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.example.ol_shop.LoginActivity;
-import com.example.ol_shop.R;
-import com.example.ol_shop.model.Account;
-import com.example.ol_shop.network.ManagerService;
-import com.example.ol_shop.network.RetrofitClient;
-import com.example.ol_shop.ui.user.activity.SettingActivity;
-import com.example.ol_shop.ui.user.activity.WalletActivity;
+import com.example.demodapd.R;
+import com.example.demodapd.model.Account;
+import com.example.demodapd.network.ManagerService;
+import com.example.demodapd.network.RetrofitClient;
+import com.example.demodapd.ui.user.activity.SettingActivity;
+import com.example.demodapd.ui.user.activity.WalletActivity;
 
 import retrofit2.Call;
 import retrofit2.Callback;

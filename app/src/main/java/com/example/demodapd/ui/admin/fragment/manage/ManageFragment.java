@@ -12,10 +12,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.ol_shop.R;
-import com.example.ol_shop.ui.admin.activity.account.AccountActivity;
-import com.example.ol_shop.ui.admin.activity.category.ListCategoryActivity;
-import com.example.ol_shop.ui.admin.activity.product.ListProductActivity;
+import com.example.demodapd.R;
+import com.example.demodapd.ui.admin.activity.account.AccountActivity;
+import com.example.demodapd.ui.admin.activity.category.ListCategoryActivity;
+import com.example.demodapd.ui.admin.activity.product.ListProductActivity;
 
 public class ManageFragment extends Fragment {
     TextView tv_product,tv_category,tv_account;
