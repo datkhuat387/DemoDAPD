@@ -8,8 +8,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.ol_shop.MainActivity;
-import com.example.ol_shop.R;
+import com.example.demodapd.MainActivity;
+import com.example.demodapd.R;
 
 public class ConfirmActivity extends AppCompatActivity {
     AppCompatButton btn_finish;

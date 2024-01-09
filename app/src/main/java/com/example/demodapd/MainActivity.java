@@ -1,4 +1,4 @@
-package com.example.ol_shop;
+package com.example.demodapd;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

@@ -9,8 +9,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.ol_shop.LoginActivity;
-import com.example.ol_shop.R;
+import com.example.demodapd.LoginActivity;
+import com.example.demodapd.R;
 
 public class SettingActivity extends AppCompatActivity {
     ImageView img_back;

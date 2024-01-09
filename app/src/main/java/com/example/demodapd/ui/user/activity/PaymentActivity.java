@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.example.ol_shop.R;
+import com.example.demodapd.R;
 
 public class PaymentActivity extends AppCompatActivity {
 

@@ -14,11 +14,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.example.ol_shop.R;
-import com.example.ol_shop.model.Product;
-import com.example.ol_shop.network.ManagerService;
-import com.example.ol_shop.network.RetrofitClient;
-import com.example.ol_shop.ui.user.fragment.home.HomeUserFragment;
+import com.example.demodapd.R;
+import com.example.demodapd.model.Product;
+import com.example.demodapd.network.ManagerService;
+import com.example.demodapd.network.RetrofitClient;
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;

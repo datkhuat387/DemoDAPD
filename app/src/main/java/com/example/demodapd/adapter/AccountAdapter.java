@@ -9,8 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.ol_shop.R;
-import com.example.ol_shop.model.Account;
+import com.example.demodapd.R;
+import com.example.demodapd.model.Account;
 
 import java.util.List;
 

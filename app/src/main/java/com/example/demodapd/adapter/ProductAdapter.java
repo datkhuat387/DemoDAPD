@@ -11,9 +11,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.ol_shop.R;
-import com.example.ol_shop.model.Category;
-import com.example.ol_shop.model.Product;
+import com.example.demodapd.R;
+import com.example.demodapd.model.Category;
+import com.example.demodapd.model.Product;
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;

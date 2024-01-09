@@ -11,12 +11,11 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.example.ol_shop.R;
-import com.example.ol_shop.adapter.CategoryAdapter;
-import com.example.ol_shop.model.Category;
-import com.example.ol_shop.network.ManagerService;
-import com.example.ol_shop.network.RetrofitClient;
-import com.example.ol_shop.ui.user.activity.DetailCategoryActivity;
+import com.example.demodapd.R;
+import com.example.demodapd.adapter.CategoryAdapter;
+import com.example.demodapd.model.Category;
+import com.example.demodapd.network.ManagerService;
+import com.example.demodapd.network.RetrofitClient;
 
 import java.util.ArrayList;
 import java.util.List;
